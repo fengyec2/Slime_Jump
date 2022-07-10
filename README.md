@@ -20,8 +20,8 @@
 
 ***
 <h1><a name="p1">蹦蹦史莱姆</a></h1>
-<p style="color:#ff0000;">警告：作品为个人复刻米哈游网页游戏 蹦蹦史莱姆 ，未经米哈游官方认证！</p>
-<p>您可以在<a href="https://github.com/fengyec2/Slime_Jump/" target="_blank"> GitHub </a>上给作者一个 Star </p>
+<p style="color:#ff0000;">警告：作品为个人复刻米哈游网页游戏 <a href="https://webstatic.mihoyo.com/ys/event/e20220517-jump-eola/index.html" target="_blank">蹦蹦史莱姆</a> ，未经米哈游官方认证！</p>
+<p>您可以在 <a href="https://github.com/fengyec2/Slime_Jump/" target="_blank">GitHub</a> 上给作者一个 Star </p>
 <p style="color:#00FF00;">当前版本工程文件大小：11.29MB，工程文件很小，加载飞快！</p>
 
 ***
